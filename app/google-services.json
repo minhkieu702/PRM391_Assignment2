@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "423913316379",
+    "firebase_url": "https://fir-realtime-database-49344-default-rtdb.firebaseio.com",
+    "project_id": "fir-realtime-database-49344",
+    "storage_bucket": "fir-realtime-database-49344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423913316379:android:8c4d1a357a6463b50198be",
+        "android_client_info": {
+          "package_name": "com.defaultCompany.FirebaseDatabaseTutorialStarterProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2v2Yr8zDfcGjnd2zxGhOvyhScG8JjHEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423913316379:android:5cc718cba6eaa6cd0198be",
+        "android_client_info": {
+          "package_name": "com.example.photobrowser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2v2Yr8zDfcGjnd2zxGhOvyhScG8JjHEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
